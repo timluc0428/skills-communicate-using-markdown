@@ -6,3 +6,9 @@
 ###### This is my 6th heading for markdown coommunication exercise
 
 ![Image of Kimonotocat](https://octodex.github.com/images/kimonotocat.png)
+
+``` python
+messege = "Hello World"
+print (messege)
+
+```
